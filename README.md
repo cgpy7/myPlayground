@@ -2,7 +2,7 @@
 
 # how to run it? Easy! 
 # 1. git clone
-# 2. cd chatHub
+# 2. cd myPlayground
 # 3. npm install
 # 4. npm start
 # 5. open up localhost:3000 in your browser, boom!
